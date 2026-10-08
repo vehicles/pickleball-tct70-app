@@ -1,0 +1,21 @@
+{
+  "short_name": "PickleballTCT70",
+  "name": "Điều Hành Pickleball TCT70",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#1a5276",
+  "theme_color": "#1a5276",
+  "display": "standalone",
+  "orientation": "portrait"
+}
